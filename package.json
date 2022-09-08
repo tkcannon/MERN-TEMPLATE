@@ -1,0 +1,19 @@
+{
+  "name": "mern-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkcannon/MERN-TEMPLATE.git"
+  },
+  "author": "tkcannon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkcannon/MERN-TEMPLATE/issues"
+  },
+  "homepage": "https://github.com/tkcannon/MERN-TEMPLATE#readme"
+}
